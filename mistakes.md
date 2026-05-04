@@ -7,3 +7,6 @@ In loop in question for find in O(n) always start count with 1. eg book allocati
 
 Always be careful with n (arr size) . Because may be it's out of bound
 In DP when prepare memoization and tabulation . check whole function once because there may be recursive realtion error
+
+Longest Common Susequence:
+Whenever removal/insertion think the max operation and what elements not to touch
